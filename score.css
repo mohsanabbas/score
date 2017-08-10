@@ -6,11 +6,19 @@
     color: #ff0000;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
 h1 {
-    font-size: 200px;
-    font border-bottom: medium solid #434343;
-    border-right: 10px solid #434343;
-    border-radius: 0px 30px 150px;
+    font-size: 170px;
+    text-align: center;
+    color: rgb(250, 176, 4);
+    border-bottom: 30px solid #434343;
+    border-right: 30px solid rgba(97, 96, 89, 0.94);
+    git border-top: 30px solid #4;
+    border-left: 30px solid #5A5855;
+    border-radius: 0px 150px 150px;
     background-color: #646464;
 }
 
