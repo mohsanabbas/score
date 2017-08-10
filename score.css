@@ -1,0 +1,37 @@
+.winner {
+    color: #00ff00;
+}
+
+.loser {
+    color: #ff0000;
+}
+
+h1 {
+    font-size: 200px;
+    border-bottom: medium solid #434343;
+    border-right: 10px solid #434343;
+    border-radius: 0px 30px 150px;
+    background-color: #646464;
+}
+
+.btn {
+    color: white;
+    background: rgb(2, 200, 20);
+    border-radius: 5px;
+    font-size: 100%;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
